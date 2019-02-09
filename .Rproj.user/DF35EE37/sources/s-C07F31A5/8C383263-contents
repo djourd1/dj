@@ -1,0 +1,25 @@
+---
+title: First Post
+author: Damien Jourdain
+date: '2019-02-09'
+slug: first-post
+output:
+blogdown::html_page:
+    toc: true
+    fig_width: 6
+    dev: "svg"
+---
+
+# This is a title
+## R Basics
+
+```{r}
+fit = lm(dist ~ speed, data = cars)
+b = coef(summary(fit))
+plot(fit)
+```
+
+The slope of the regression is `r b[2, 1]`.
+
+
+
