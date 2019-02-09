@@ -57,13 +57,13 @@
   </url>
   
   <url>
-    <loc>ecoo.netlify.com/tags/development/</loc>
+    <loc>ecoo.netlify.com/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>ecoo.netlify.com/categories/development/</loc>
+    <loc>ecoo.netlify.com/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -75,13 +75,13 @@
   </url>
   
   <url>
-    <loc>ecoo.netlify.com/tags/golang/</loc>
+    <loc>ecoo.netlify.com/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>ecoo.netlify.com/categories/golang/</loc>
+    <loc>ecoo.netlify.com/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
